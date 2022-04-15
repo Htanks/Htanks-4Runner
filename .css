@@ -1,0 +1,63 @@
+body {
+	width: 100%;
+	height: 100%;
+	background: url(https://www.ihwanburhan.com/wp-content/uploads/2019/11/2020-Toyota-4Runner-Exterior.jpg) no-repeat center center fixed;
+	bacground-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	border: 5px solid red;
+	font-size: 30px;
+	font-family: 'monospace', sans-serif;
+}
+
+form {
+	color: white;
+	font-family: arial;
+}
+
+form {
+	max-width: 600px;
+	background: rgba(0,37,71,0.7);
+	margin: 0 auto;
+	padding:  20px 40px;
+	color: white;
+	border-radius: 5px;
+}
+
+input[type="text"],
+select,
+textarea {
+	disply: block;
+	margin-top: 10px;
+	height: 40px;
+	width: 100%;
+	border-radius: 5px;
+	border: 0;
+	padding: 10px;
+	font-family: inherit;
+
+}
+
+input[type="email"],
+select,
+textarea {
+	display: block;
+	margint-top: 10px;
+	height: 40px;
+	width: 100%;
+	border-radius: 5px;
+	border: 0;
+	padding: 10px;
+	font-family: inherit;
+
+}
+
+
+
